@@ -1,0 +1,2 @@
+# HF-AS5047U-ESPIDF
+AS5047U component for ESP-IDF
